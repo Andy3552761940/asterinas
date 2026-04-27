@@ -1,0 +1,1 @@
+//! `langvmctl` CLI scaffolding entry.

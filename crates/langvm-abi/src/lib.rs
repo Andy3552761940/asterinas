@@ -1,0 +1,1 @@
+//! LangVM ABI crate scaffolding.
